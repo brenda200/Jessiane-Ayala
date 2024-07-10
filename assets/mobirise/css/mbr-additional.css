@@ -139,7 +139,7 @@ body {
 .btn-secondary:active {
   background-color: #bbf1b7 !important;
   border-color: #bbf1b7 !important;
-  color: #238d1c !important;
+  color: #55723a !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-secondary:hover,
@@ -1284,7 +1284,7 @@ a {
   text-align: center;
 }
 .cid-uh7iJZj5BX {
-  background-color: #bed3f9;
+  background-color: #c4ce96bd;
 }
 .cid-uh7iJZj5BX .mbr-fallback-image.disabled {
   display: none;
